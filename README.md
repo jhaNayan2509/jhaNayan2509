@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate Software Developer from India. </h3>
 <div align="center">
-  <img src="https://github.com/jhaNayan2509/jhaNayan2509/blob/main/nayan-jha.jpg" alt="Nayan Jha" width="250">
+  <img src="https://github.com/jhaNayan2509/jhaNayan2509/blob/main/nayan-jha.jpg" alt="Nayan Jha" width="150">
 </div>
 <p align="center">
   <a href="https://github.com/jhaNayan2509">
