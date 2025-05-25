@@ -1,7 +1,9 @@
 <h1 align="center">Hey Everyone 👋, I'm Nayan Kumar Jha</h1>
 
 <h3 align="center">A passionate Software Developer from India. </h3>
-
+<div align="center">
+  <img src="https://github.com/jhaNayan2509/jhaNayan2509/blob/main/nayan-jha.jpg" alt="Nayan Jha" width="100">
+</div>
 <p align="center">
   <a href="https://github.com/jhaNayan2509">
     <img src="https://img.shields.io/github/followers/jhaNayan2509?label=Follow&style=social" />
